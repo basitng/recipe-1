@@ -1,4 +1,5 @@
 import { NextResponse } from "next/server";
+//@ts-ignore
 import { UnrealSpeechAPI } from "unrealspeech";
 
 export async function POST(req: Request) {
