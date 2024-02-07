@@ -70,7 +70,7 @@ export default function Home() {
           <div className="absolute inset-x-60 top-0 bg-gradient-to-r from-transparent via-sky-500 to-transparent h-px w-1/4" />
         </div>
         <h1 className="text-4xl font-bold capitalize text-transparent tracking-tighter bg-gradient-to-tl text-center from-black to-stone-200 bg-clip-text [text-wrap:balance] md:text-7xl md:leading-[5rem]">
-          blog post to audio in few seconds
+          Text to Speech in few seconds
         </h1>
         <div className="w-full mt-8 mb-4 bg-[#1d1d1d] shadowm-md border-[1px] h-[150px] border-gray-200/15 rounded-md">
           <Textarea
